@@ -2,7 +2,7 @@
 //  KPAppDelegate.h
 //  InternetStatus
 //
-//  Created by DiabetesMac on 17/07/2013.
+//  Created by Krish on 17/07/2013.
 //
 //
 

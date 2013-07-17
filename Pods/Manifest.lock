@@ -1,0 +1,16 @@
+PODS:
+  - Reachability (3.1.0)
+  - SVProgressHUD (0.9)
+  - TSMessages (0.9.3)
+
+DEPENDENCIES:
+  - Reachability (= 3.1.0)
+  - SVProgressHUD (= 0.9)
+  - TSMessages (= 0.9.3)
+
+SPEC CHECKSUMS:
+  Reachability: ba94ecd4eaa037be3d0588b38956672588530c5b
+  SVProgressHUD: 03d4845ec8e64591726428a08236c6a5489d45f8
+  TSMessages: e741d102e8291074b4ee7545b53c90ed5f220dd5
+
+COCOAPODS: 0.22.1
