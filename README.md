@@ -2,12 +2,12 @@
 
 This is a simple and easy to understand iOS app which checks connectivity to the internet and present a notification depending on what the output is.
 
-
+The app is pre-setup and just requires a build.
 
 ## Reachability Sample
-This sample uses Blocks to tell you when the interface state has changed. The blocks will be called on a BACKGROUND THREAD so you need to dispatch UI updates onto the main thread.
+This sample uses Blocks to tell you when the interface state has changed.
 
-  // allocate a reachability object
+  	// allocate a reachability object
 	Reachability* reach = [Reachability reachabilityWithHostname:@"www.google.com"];
 
 	// set the blocks 
